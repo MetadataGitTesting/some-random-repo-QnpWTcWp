@@ -13,13 +13,13 @@ workflows:
     datasets:
       inputs: []
       outputs: []
-  workflows/Rueben_Schneider:
-    name: Rueben_Schneider
-    description: null
-    author: gavin.larkin@gmail.com
+  workflows/W1:
+    name: W1
+    description: Really solid info
+    author: ashly.reilly@yahoo.com
     mode: batch
     language: scala
-    createdAt: '2022-02-01 10:09:38'
+    createdAt: '2022-02-02 14:47:46'
     datasets:
       inputs: []
       outputs: []
@@ -43,5 +43,30 @@ workflows:
     datasets:
       inputs: []
       outputs: []
+  workflows/Rueben_Schneider:
+    name: Rueben_Schneider
+    description: null
+    author: gavin.larkin@gmail.com
+    mode: batch
+    language: scala
+    createdAt: '2022-02-01 10:09:38'
+    datasets:
+      inputs: []
+      outputs: []
+  workflows/W2:
+    name: W2
+    description: Really solid info
+    author: ashly.reilly@yahoo.com
+    mode: batch
+    language: scala
+    createdAt: '2022-02-02 14:47:52'
+    datasets:
+      inputs: []
+      outputs: []
 datasets: {}
-schedules: {}
+schedules:
+  schedules/Nigel_Ullrich_DVM:
+    name: Nigel_Ullrich_DVM
+    description: Really solid info
+    createdAt: '2022-02-02 14:47:47'
+    author: ashly.reilly@yahoo.com
